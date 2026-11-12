@@ -29,4 +29,4 @@ Employee Data Analyzer is a Python-based project used to clean, analyze and visu
 Four test cases were performed to verify the project functionality.
 
 ## Author
-Your Name
+Pranshu Sharma
